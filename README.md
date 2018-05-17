@@ -1,6 +1,6 @@
 # Udacity - Data Analyst Nanodegree - Term 2 - Project 3: Data Wrangling
 
-#### Project Details###
+#### Project Details
 
 Your tasks in this project are as follows:
 
@@ -14,7 +14,7 @@ Your tasks in this project are as follows:
     A. your data wrangling efforts and 
     B. your data analyses and visualizations
 
-#### Instructions for Gathering Data###
+#### Instructions for Gathering Data
 
 Gather each of the three pieces of data as described below in a Jupyter Notebook titled `wrangle_act.ipynb`:
 
