@@ -1,4 +1,6 @@
-# Udacity - Data Analyst Nanodegree - Term 2 - Project 3: Data Wrangling
+# Data Wrangling
+
+### Udacity Data Analyst Nanodegree (DAND) - Term 2 - Project 3
 
 ## 1. Project Overview
 
